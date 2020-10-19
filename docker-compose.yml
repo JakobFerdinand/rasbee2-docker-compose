@@ -1,0 +1,17 @@
+version: "3"
+
+services:
+  deconz:
+    container_name: deconz
+    image: marthoc/deconz
+    restart: always
+    volumes:
+      - /etc/localtime:/etc/localtime:ro
+      - ~/.local/share/dresden-elektronik/deCONZ:/root/.local/share/dresden-elektronik/deCONZ
+    ports:
+      - 80:80
+      - 443:443
+    devices:
+      - /dev/ttyS0:/dev/ttyS0
+    environment:
+      - DECONZ_DEVICE=/dev/ttyS0
