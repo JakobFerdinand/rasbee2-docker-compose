@@ -14,6 +14,8 @@ A list of devices I have tested.
 | | |
 | --- | --- |
 | [Ikea Tradfri Dimmer](https://www.ikea.com/de/de/p/tradfri-kabelloser-dimmer-weiss-70408595/) | <img src="images/ikea-tradfri-dimmer.jpg" width="100" height="100"> |
+| [Aqara Single Switch WXKG03LM](https://www.conrad.at/de/p/aqara-schalter-wxkg03lm-apple-homekit-2201291.html?searchType=SearchRedirect) | <img src="images/aqara-single-switch.jpg" width="100" height="100"> |
+| [Aqara Double Switch WXKG02LM](https://www.conrad.at/de/p/aqara-schalter-wxkg02lm-apple-homekit-2201290.html?searchType=SearchRedirect) | <img src="images/aqara-double-switch.jpg" width="100" height="100"> |
 
 ### Light Drivers/Controllers
 
