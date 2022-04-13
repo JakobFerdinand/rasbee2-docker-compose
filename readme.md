@@ -7,7 +7,8 @@ My configuration is tested on a raspberry pi 3.
 
 ## Devices
 
-A list of devices I have tested.
+[Here is a list](https://github.com/dresden-elektronik/deconz-rest-plugin/wiki/Supported-Devices) of devices that should be supported.
+I have successfully tested the following devices.
 
 ### Switches
 
