@@ -9,4 +9,6 @@ A list of devices I have tested.
 
 | | |
 | --- | --- |
-| [Ikea Tradfri Dimmer](https://www.ikea.com/de/de/p/tradfri-kabelloser-dimmer-weiss-70408595/) | ![](images/ikea-tradfri-dimmer.jpg) |
+| [Ikea Tradfri Dimmer](https://www.ikea.com/de/de/p/tradfri-kabelloser-dimmer-weiss-70408595/) | <img src="images/ikea-tradfri-dimmer.jpg" width="100" height="100"> |
+
+
