@@ -1,6 +1,8 @@
 # Deconz for rasbee2
 
-This is a docker-compose file to run deconz for a [raspbee2](https://phoscon.de/en/raspbee2)
+<img src="images/raspbee2.jpg" width="400" height="400">
+
+This is a docker-compose file to run deconz for a [raspbee2](https://phoscon.de/en/raspbee2).  
 My configuration is tested on a raspberry pi 3.
 
 ## Devices
